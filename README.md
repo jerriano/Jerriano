@@ -1,7 +1,10 @@
 
 <h1>Hi, I'm Jerry! <br/><a href="https://github.com/jerriano">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>-
+<h2>Career Objective </h2>
+To leverage my passion for cybersecurity and aptitude for problem-solving to embark on a dynamic career path as a Pentester and Cloud Security Professional. Focused on honing my skills in ethical hacking, vulnerability assessment, and penetration testing, I aim to contribute to safeguarding digital infrastructure against evolving threats. By combining my technical expertise with a proactive approach to emerging technologies, my goal is to become a trusted advisor in ensuring the resilience and security of cloud-based systems.
+
+<h3>👨‍💻 Cybersecurity Projects:</h3>-
 
 <!--- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
